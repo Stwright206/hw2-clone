@@ -1,1 +1,3 @@
-# hw2-clone
+# HW2
+Steven Wright
+Anh Pham
